@@ -1,0 +1,15 @@
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\capaPresentacion.exe
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\capaPresentacion.pdb
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\capaEntidad.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\capaNegocio.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\capaEntidad.pdb
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\capaNegocio.pdb
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.csprojResolveAssemblyReference.cache
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.Cache
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.exe
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.pdb
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.frmFicha.resources
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.frmPrincipal.resources

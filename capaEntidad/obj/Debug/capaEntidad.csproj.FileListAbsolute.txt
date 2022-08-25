@@ -1,0 +1,5 @@
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaEntidad\bin\Debug\capaEntidad.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaEntidad\bin\Debug\capaEntidad.pdb
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaEntidad\obj\Debug\capaEntidad.csprojResolveAssemblyReference.cache
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaEntidad\obj\Debug\capaEntidad.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaEntidad\obj\Debug\capaEntidad.pdb

@@ -1,0 +1,9 @@
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bin\Debug\capaNegocio.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bin\Debug\capaNegocio.pdb
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bin\Debug\capaData.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bin\Debug\capaEntidad.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bin\Debug\capaData.pdb
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bin\Debug\capaEntidad.pdb
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\obj\Debug\capaNegocio.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\obj\Debug\capaNegocio.pdb

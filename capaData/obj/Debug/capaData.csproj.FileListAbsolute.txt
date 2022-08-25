@@ -1,0 +1,7 @@
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaData\bin\Debug\capaData.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaData\bin\Debug\capaData.pdb
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaData\bin\Debug\capaEntidad.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaData\bin\Debug\capaEntidad.pdb
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaData\obj\Debug\capaData.csprojResolveAssemblyReference.cache
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaData\obj\Debug\capaData.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaData\obj\Debug\capaData.pdb
