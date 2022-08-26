@@ -134,11 +134,11 @@
             this.label54 = new System.Windows.Forms.Label();
             this.label56 = new System.Windows.Forms.Label();
             this.label57 = new System.Windows.Forms.Label();
-            this.bunifuMaterialTextbox10 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
-            this.bunifuMaterialTextbox11 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
-            this.bunifuMaterialTextbox12 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtIncCodRes2021 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtCrisCodRes201 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtIncFecha2021 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
             this.label55 = new System.Windows.Forms.Label();
-            this.bunifuMaterialTextbox13 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtCrisFecha2021 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
             this.panel15 = new System.Windows.Forms.Panel();
             this.panel16 = new System.Windows.Forms.Panel();
             this.label58 = new System.Windows.Forms.Label();
@@ -148,23 +148,23 @@
             this.label61 = new System.Windows.Forms.Label();
             this.label62 = new System.Windows.Forms.Label();
             this.label63 = new System.Windows.Forms.Label();
-            this.bunifuMaterialTextbox14 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
-            this.bunifuMaterialTextbox15 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
-            this.bunifuMaterialTextbox16 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtCrisCodRes2020 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtIncCodRes2020 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtIncFecha2020 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
             this.label64 = new System.Windows.Forms.Label();
-            this.bunifuMaterialTextbox17 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtCrisFecha2020 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
             this.label47 = new System.Windows.Forms.Label();
             this.panel6 = new System.Windows.Forms.Panel();
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
-            this.bunifuMaterialTextbox18 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
-            this.bunifuMaterialTextbox19 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
-            this.bunifuMaterialTextbox20 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
-            this.bunifuMaterialTextbox21 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
-            this.bunifuMaterialTextbox22 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
-            this.bunifuMaterialTextbox23 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtLocalidad = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtCveLoc = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtMunicipio = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtCveMun = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtInegi = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtRegion = new Bunifu.Framework.UI.BunifuMaterialTextbox();
             this.label65 = new System.Windows.Forms.Label();
             this.label66 = new System.Windows.Forms.Label();
-            this.bunifuMaterialTextbox24 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtIdRegion = new Bunifu.Framework.UI.BunifuMaterialTextbox();
             this.label67 = new System.Windows.Forms.Label();
             this.label68 = new System.Windows.Forms.Label();
             this.label69 = new System.Windows.Forms.Label();
@@ -173,9 +173,9 @@
             this.tblPnlTutora = new System.Windows.Forms.TableLayoutPanel();
             this.label50 = new System.Windows.Forms.Label();
             this.label48 = new System.Windows.Forms.Label();
-            this.bunifuMaterialTextbox7 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
-            this.bunifuMaterialTextbox8 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
-            this.bunifuMaterialTextbox9 = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtIdTutora = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtNombreCompleto = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtEstatus = new Bunifu.Framework.UI.BunifuMaterialTextbox();
             this.label49 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -1804,11 +1804,11 @@
             this.tableLayoutPanel1.Controls.Add(this.label52, 1, 0);
             this.tableLayoutPanel1.Controls.Add(this.label55, 2, 1);
             this.tableLayoutPanel1.Controls.Add(this.label57, 2, 2);
-            this.tableLayoutPanel1.Controls.Add(this.bunifuMaterialTextbox11, 1, 1);
-            this.tableLayoutPanel1.Controls.Add(this.bunifuMaterialTextbox10, 3, 1);
-            this.tableLayoutPanel1.Controls.Add(this.bunifuMaterialTextbox12, 3, 2);
+            this.tableLayoutPanel1.Controls.Add(this.txtCrisCodRes201, 1, 1);
+            this.tableLayoutPanel1.Controls.Add(this.txtIncCodRes2021, 3, 1);
+            this.tableLayoutPanel1.Controls.Add(this.txtIncFecha2021, 3, 2);
             this.tableLayoutPanel1.Controls.Add(this.label54, 3, 0);
-            this.tableLayoutPanel1.Controls.Add(this.bunifuMaterialTextbox13, 1, 2);
+            this.tableLayoutPanel1.Controls.Add(this.txtCrisFecha2021, 1, 2);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
@@ -1880,71 +1880,71 @@
             this.label57.Text = "Fecha:";
             this.label57.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // bunifuMaterialTextbox10
+            // txtIncCodRes2021
             // 
-            this.bunifuMaterialTextbox10.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox10.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox10.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox10.Enabled = false;
-            this.bunifuMaterialTextbox10.Font = new System.Drawing.Font("Century Gothic", 12F);
-            this.bunifuMaterialTextbox10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox10.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox10.HintText = "";
-            this.bunifuMaterialTextbox10.isPassword = false;
-            this.bunifuMaterialTextbox10.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox10.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox10.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox10.LineThickness = 2;
-            this.bunifuMaterialTextbox10.Location = new System.Drawing.Point(299, 32);
-            this.bunifuMaterialTextbox10.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
-            this.bunifuMaterialTextbox10.Name = "bunifuMaterialTextbox10";
-            this.bunifuMaterialTextbox10.Size = new System.Drawing.Size(116, 25);
-            this.bunifuMaterialTextbox10.TabIndex = 62;
-            this.bunifuMaterialTextbox10.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtIncCodRes2021.BackColor = System.Drawing.Color.LightGray;
+            this.txtIncCodRes2021.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtIncCodRes2021.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtIncCodRes2021.Enabled = false;
+            this.txtIncCodRes2021.Font = new System.Drawing.Font("Century Gothic", 12F);
+            this.txtIncCodRes2021.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIncCodRes2021.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIncCodRes2021.HintText = "";
+            this.txtIncCodRes2021.isPassword = false;
+            this.txtIncCodRes2021.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIncCodRes2021.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtIncCodRes2021.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIncCodRes2021.LineThickness = 2;
+            this.txtIncCodRes2021.Location = new System.Drawing.Point(299, 32);
+            this.txtIncCodRes2021.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.txtIncCodRes2021.Name = "txtIncCodRes2021";
+            this.txtIncCodRes2021.Size = new System.Drawing.Size(116, 25);
+            this.txtIncCodRes2021.TabIndex = 62;
+            this.txtIncCodRes2021.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
-            // bunifuMaterialTextbox11
+            // txtCrisCodRes201
             // 
-            this.bunifuMaterialTextbox11.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox11.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox11.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox11.Enabled = false;
-            this.bunifuMaterialTextbox11.Font = new System.Drawing.Font("Century Gothic", 12F);
-            this.bunifuMaterialTextbox11.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox11.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox11.HintText = "";
-            this.bunifuMaterialTextbox11.isPassword = false;
-            this.bunifuMaterialTextbox11.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox11.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox11.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox11.LineThickness = 2;
-            this.bunifuMaterialTextbox11.Location = new System.Drawing.Point(102, 32);
-            this.bunifuMaterialTextbox11.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
-            this.bunifuMaterialTextbox11.Name = "bunifuMaterialTextbox11";
-            this.bunifuMaterialTextbox11.Size = new System.Drawing.Size(91, 25);
-            this.bunifuMaterialTextbox11.TabIndex = 63;
-            this.bunifuMaterialTextbox11.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtCrisCodRes201.BackColor = System.Drawing.Color.LightGray;
+            this.txtCrisCodRes201.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtCrisCodRes201.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtCrisCodRes201.Enabled = false;
+            this.txtCrisCodRes201.Font = new System.Drawing.Font("Century Gothic", 12F);
+            this.txtCrisCodRes201.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCrisCodRes201.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCrisCodRes201.HintText = "";
+            this.txtCrisCodRes201.isPassword = false;
+            this.txtCrisCodRes201.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCrisCodRes201.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtCrisCodRes201.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCrisCodRes201.LineThickness = 2;
+            this.txtCrisCodRes201.Location = new System.Drawing.Point(102, 32);
+            this.txtCrisCodRes201.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.txtCrisCodRes201.Name = "txtCrisCodRes201";
+            this.txtCrisCodRes201.Size = new System.Drawing.Size(91, 25);
+            this.txtCrisCodRes201.TabIndex = 63;
+            this.txtCrisCodRes201.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
-            // bunifuMaterialTextbox12
+            // txtIncFecha2021
             // 
-            this.bunifuMaterialTextbox12.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox12.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox12.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox12.Enabled = false;
-            this.bunifuMaterialTextbox12.Font = new System.Drawing.Font("Century Gothic", 12F);
-            this.bunifuMaterialTextbox12.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox12.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox12.HintText = "";
-            this.bunifuMaterialTextbox12.isPassword = false;
-            this.bunifuMaterialTextbox12.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox12.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox12.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox12.LineThickness = 2;
-            this.bunifuMaterialTextbox12.Location = new System.Drawing.Point(299, 66);
-            this.bunifuMaterialTextbox12.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
-            this.bunifuMaterialTextbox12.Name = "bunifuMaterialTextbox12";
-            this.bunifuMaterialTextbox12.Size = new System.Drawing.Size(116, 25);
-            this.bunifuMaterialTextbox12.TabIndex = 64;
-            this.bunifuMaterialTextbox12.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtIncFecha2021.BackColor = System.Drawing.Color.LightGray;
+            this.txtIncFecha2021.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtIncFecha2021.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtIncFecha2021.Enabled = false;
+            this.txtIncFecha2021.Font = new System.Drawing.Font("Century Gothic", 12F);
+            this.txtIncFecha2021.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIncFecha2021.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIncFecha2021.HintText = "";
+            this.txtIncFecha2021.isPassword = false;
+            this.txtIncFecha2021.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIncFecha2021.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtIncFecha2021.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIncFecha2021.LineThickness = 2;
+            this.txtIncFecha2021.Location = new System.Drawing.Point(299, 66);
+            this.txtIncFecha2021.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.txtIncFecha2021.Name = "txtIncFecha2021";
+            this.txtIncFecha2021.Size = new System.Drawing.Size(116, 25);
+            this.txtIncFecha2021.TabIndex = 64;
+            this.txtIncFecha2021.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
             // label55
             // 
@@ -1958,27 +1958,27 @@
             this.label55.Text = "Cod. Res:";
             this.label55.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // bunifuMaterialTextbox13
+            // txtCrisFecha2021
             // 
-            this.bunifuMaterialTextbox13.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox13.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox13.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox13.Enabled = false;
-            this.bunifuMaterialTextbox13.Font = new System.Drawing.Font("Century Gothic", 12F);
-            this.bunifuMaterialTextbox13.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox13.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox13.HintText = "";
-            this.bunifuMaterialTextbox13.isPassword = false;
-            this.bunifuMaterialTextbox13.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox13.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox13.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox13.LineThickness = 2;
-            this.bunifuMaterialTextbox13.Location = new System.Drawing.Point(102, 66);
-            this.bunifuMaterialTextbox13.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
-            this.bunifuMaterialTextbox13.Name = "bunifuMaterialTextbox13";
-            this.bunifuMaterialTextbox13.Size = new System.Drawing.Size(91, 25);
-            this.bunifuMaterialTextbox13.TabIndex = 65;
-            this.bunifuMaterialTextbox13.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtCrisFecha2021.BackColor = System.Drawing.Color.LightGray;
+            this.txtCrisFecha2021.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtCrisFecha2021.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtCrisFecha2021.Enabled = false;
+            this.txtCrisFecha2021.Font = new System.Drawing.Font("Century Gothic", 12F);
+            this.txtCrisFecha2021.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCrisFecha2021.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCrisFecha2021.HintText = "";
+            this.txtCrisFecha2021.isPassword = false;
+            this.txtCrisFecha2021.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCrisFecha2021.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtCrisFecha2021.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCrisFecha2021.LineThickness = 2;
+            this.txtCrisFecha2021.Location = new System.Drawing.Point(102, 66);
+            this.txtCrisFecha2021.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.txtCrisFecha2021.Name = "txtCrisFecha2021";
+            this.txtCrisFecha2021.Size = new System.Drawing.Size(91, 25);
+            this.txtCrisFecha2021.TabIndex = 65;
+            this.txtCrisFecha2021.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
             // panel15
             // 
@@ -2023,11 +2023,11 @@
             this.tableLayoutPanel2.Controls.Add(this.label61, 1, 0);
             this.tableLayoutPanel2.Controls.Add(this.label62, 2, 1);
             this.tableLayoutPanel2.Controls.Add(this.label63, 2, 2);
-            this.tableLayoutPanel2.Controls.Add(this.bunifuMaterialTextbox14, 1, 1);
-            this.tableLayoutPanel2.Controls.Add(this.bunifuMaterialTextbox15, 3, 1);
-            this.tableLayoutPanel2.Controls.Add(this.bunifuMaterialTextbox16, 3, 2);
+            this.tableLayoutPanel2.Controls.Add(this.txtCrisCodRes2020, 1, 1);
+            this.tableLayoutPanel2.Controls.Add(this.txtIncCodRes2020, 3, 1);
+            this.tableLayoutPanel2.Controls.Add(this.txtIncFecha2020, 3, 2);
             this.tableLayoutPanel2.Controls.Add(this.label64, 3, 0);
-            this.tableLayoutPanel2.Controls.Add(this.bunifuMaterialTextbox17, 1, 2);
+            this.tableLayoutPanel2.Controls.Add(this.txtCrisFecha2020, 1, 2);
             this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.tableLayoutPanel2.Location = new System.Drawing.Point(0, 30);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
@@ -2099,71 +2099,71 @@
             this.label63.Text = "Fecha:";
             this.label63.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // bunifuMaterialTextbox14
+            // txtCrisCodRes2020
             // 
-            this.bunifuMaterialTextbox14.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox14.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox14.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox14.Enabled = false;
-            this.bunifuMaterialTextbox14.Font = new System.Drawing.Font("Century Gothic", 12F);
-            this.bunifuMaterialTextbox14.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox14.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox14.HintText = "";
-            this.bunifuMaterialTextbox14.isPassword = false;
-            this.bunifuMaterialTextbox14.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox14.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox14.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox14.LineThickness = 2;
-            this.bunifuMaterialTextbox14.Location = new System.Drawing.Point(102, 28);
-            this.bunifuMaterialTextbox14.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
-            this.bunifuMaterialTextbox14.Name = "bunifuMaterialTextbox14";
-            this.bunifuMaterialTextbox14.Size = new System.Drawing.Size(91, 25);
-            this.bunifuMaterialTextbox14.TabIndex = 63;
-            this.bunifuMaterialTextbox14.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtCrisCodRes2020.BackColor = System.Drawing.Color.LightGray;
+            this.txtCrisCodRes2020.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtCrisCodRes2020.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtCrisCodRes2020.Enabled = false;
+            this.txtCrisCodRes2020.Font = new System.Drawing.Font("Century Gothic", 12F);
+            this.txtCrisCodRes2020.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCrisCodRes2020.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCrisCodRes2020.HintText = "";
+            this.txtCrisCodRes2020.isPassword = false;
+            this.txtCrisCodRes2020.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCrisCodRes2020.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtCrisCodRes2020.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCrisCodRes2020.LineThickness = 2;
+            this.txtCrisCodRes2020.Location = new System.Drawing.Point(102, 28);
+            this.txtCrisCodRes2020.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.txtCrisCodRes2020.Name = "txtCrisCodRes2020";
+            this.txtCrisCodRes2020.Size = new System.Drawing.Size(91, 25);
+            this.txtCrisCodRes2020.TabIndex = 63;
+            this.txtCrisCodRes2020.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
-            // bunifuMaterialTextbox15
+            // txtIncCodRes2020
             // 
-            this.bunifuMaterialTextbox15.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox15.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox15.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox15.Enabled = false;
-            this.bunifuMaterialTextbox15.Font = new System.Drawing.Font("Century Gothic", 12F);
-            this.bunifuMaterialTextbox15.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox15.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox15.HintText = "";
-            this.bunifuMaterialTextbox15.isPassword = false;
-            this.bunifuMaterialTextbox15.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox15.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox15.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox15.LineThickness = 2;
-            this.bunifuMaterialTextbox15.Location = new System.Drawing.Point(299, 28);
-            this.bunifuMaterialTextbox15.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
-            this.bunifuMaterialTextbox15.Name = "bunifuMaterialTextbox15";
-            this.bunifuMaterialTextbox15.Size = new System.Drawing.Size(116, 25);
-            this.bunifuMaterialTextbox15.TabIndex = 62;
-            this.bunifuMaterialTextbox15.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtIncCodRes2020.BackColor = System.Drawing.Color.LightGray;
+            this.txtIncCodRes2020.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtIncCodRes2020.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtIncCodRes2020.Enabled = false;
+            this.txtIncCodRes2020.Font = new System.Drawing.Font("Century Gothic", 12F);
+            this.txtIncCodRes2020.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIncCodRes2020.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIncCodRes2020.HintText = "";
+            this.txtIncCodRes2020.isPassword = false;
+            this.txtIncCodRes2020.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIncCodRes2020.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtIncCodRes2020.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIncCodRes2020.LineThickness = 2;
+            this.txtIncCodRes2020.Location = new System.Drawing.Point(299, 28);
+            this.txtIncCodRes2020.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.txtIncCodRes2020.Name = "txtIncCodRes2020";
+            this.txtIncCodRes2020.Size = new System.Drawing.Size(116, 25);
+            this.txtIncCodRes2020.TabIndex = 62;
+            this.txtIncCodRes2020.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
-            // bunifuMaterialTextbox16
+            // txtIncFecha2020
             // 
-            this.bunifuMaterialTextbox16.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox16.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox16.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox16.Enabled = false;
-            this.bunifuMaterialTextbox16.Font = new System.Drawing.Font("Century Gothic", 12F);
-            this.bunifuMaterialTextbox16.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox16.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox16.HintText = "";
-            this.bunifuMaterialTextbox16.isPassword = false;
-            this.bunifuMaterialTextbox16.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox16.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox16.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox16.LineThickness = 2;
-            this.bunifuMaterialTextbox16.Location = new System.Drawing.Point(299, 63);
-            this.bunifuMaterialTextbox16.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
-            this.bunifuMaterialTextbox16.Name = "bunifuMaterialTextbox16";
-            this.bunifuMaterialTextbox16.Size = new System.Drawing.Size(116, 35);
-            this.bunifuMaterialTextbox16.TabIndex = 64;
-            this.bunifuMaterialTextbox16.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtIncFecha2020.BackColor = System.Drawing.Color.LightGray;
+            this.txtIncFecha2020.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtIncFecha2020.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtIncFecha2020.Enabled = false;
+            this.txtIncFecha2020.Font = new System.Drawing.Font("Century Gothic", 12F);
+            this.txtIncFecha2020.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIncFecha2020.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIncFecha2020.HintText = "";
+            this.txtIncFecha2020.isPassword = false;
+            this.txtIncFecha2020.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIncFecha2020.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtIncFecha2020.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIncFecha2020.LineThickness = 2;
+            this.txtIncFecha2020.Location = new System.Drawing.Point(299, 63);
+            this.txtIncFecha2020.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.txtIncFecha2020.Name = "txtIncFecha2020";
+            this.txtIncFecha2020.Size = new System.Drawing.Size(116, 35);
+            this.txtIncFecha2020.TabIndex = 64;
+            this.txtIncFecha2020.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
             // label64
             // 
@@ -2177,27 +2177,27 @@
             this.label64.Text = "Notificacion:";
             this.label64.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // bunifuMaterialTextbox17
+            // txtCrisFecha2020
             // 
-            this.bunifuMaterialTextbox17.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox17.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox17.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox17.Enabled = false;
-            this.bunifuMaterialTextbox17.Font = new System.Drawing.Font("Century Gothic", 12F);
-            this.bunifuMaterialTextbox17.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox17.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox17.HintText = "";
-            this.bunifuMaterialTextbox17.isPassword = false;
-            this.bunifuMaterialTextbox17.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox17.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox17.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox17.LineThickness = 2;
-            this.bunifuMaterialTextbox17.Location = new System.Drawing.Point(102, 63);
-            this.bunifuMaterialTextbox17.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
-            this.bunifuMaterialTextbox17.Name = "bunifuMaterialTextbox17";
-            this.bunifuMaterialTextbox17.Size = new System.Drawing.Size(91, 35);
-            this.bunifuMaterialTextbox17.TabIndex = 65;
-            this.bunifuMaterialTextbox17.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtCrisFecha2020.BackColor = System.Drawing.Color.LightGray;
+            this.txtCrisFecha2020.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtCrisFecha2020.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtCrisFecha2020.Enabled = false;
+            this.txtCrisFecha2020.Font = new System.Drawing.Font("Century Gothic", 12F);
+            this.txtCrisFecha2020.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCrisFecha2020.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCrisFecha2020.HintText = "";
+            this.txtCrisFecha2020.isPassword = false;
+            this.txtCrisFecha2020.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCrisFecha2020.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtCrisFecha2020.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCrisFecha2020.LineThickness = 2;
+            this.txtCrisFecha2020.Location = new System.Drawing.Point(102, 63);
+            this.txtCrisFecha2020.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.txtCrisFecha2020.Name = "txtCrisFecha2020";
+            this.txtCrisFecha2020.Size = new System.Drawing.Size(91, 35);
+            this.txtCrisFecha2020.TabIndex = 65;
+            this.txtCrisFecha2020.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
             // label47
             // 
@@ -2225,15 +2225,15 @@
             this.tableLayoutPanel3.ColumnCount = 2;
             this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 26.15012F));
             this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 73.84988F));
-            this.tableLayoutPanel3.Controls.Add(this.bunifuMaterialTextbox18, 1, 6);
-            this.tableLayoutPanel3.Controls.Add(this.bunifuMaterialTextbox19, 1, 5);
-            this.tableLayoutPanel3.Controls.Add(this.bunifuMaterialTextbox20, 1, 4);
-            this.tableLayoutPanel3.Controls.Add(this.bunifuMaterialTextbox21, 1, 3);
-            this.tableLayoutPanel3.Controls.Add(this.bunifuMaterialTextbox22, 1, 2);
-            this.tableLayoutPanel3.Controls.Add(this.bunifuMaterialTextbox23, 1, 1);
+            this.tableLayoutPanel3.Controls.Add(this.txtLocalidad, 1, 6);
+            this.tableLayoutPanel3.Controls.Add(this.txtCveLoc, 1, 5);
+            this.tableLayoutPanel3.Controls.Add(this.txtMunicipio, 1, 4);
+            this.tableLayoutPanel3.Controls.Add(this.txtCveMun, 1, 3);
+            this.tableLayoutPanel3.Controls.Add(this.txtInegi, 1, 2);
+            this.tableLayoutPanel3.Controls.Add(this.txtRegion, 1, 1);
             this.tableLayoutPanel3.Controls.Add(this.label65, 0, 5);
             this.tableLayoutPanel3.Controls.Add(this.label66, 0, 0);
-            this.tableLayoutPanel3.Controls.Add(this.bunifuMaterialTextbox24, 1, 0);
+            this.tableLayoutPanel3.Controls.Add(this.txtIdRegion, 1, 0);
             this.tableLayoutPanel3.Controls.Add(this.label67, 0, 1);
             this.tableLayoutPanel3.Controls.Add(this.label68, 0, 2);
             this.tableLayoutPanel3.Controls.Add(this.label69, 0, 3);
@@ -2254,137 +2254,137 @@
             this.tableLayoutPanel3.Size = new System.Drawing.Size(420, 239);
             this.tableLayoutPanel3.TabIndex = 2;
             // 
-            // bunifuMaterialTextbox18
+            // txtLocalidad
             // 
-            this.bunifuMaterialTextbox18.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox18.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox18.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox18.Enabled = false;
-            this.bunifuMaterialTextbox18.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuMaterialTextbox18.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox18.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox18.HintText = "";
-            this.bunifuMaterialTextbox18.isPassword = false;
-            this.bunifuMaterialTextbox18.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox18.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox18.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox18.LineThickness = 2;
-            this.bunifuMaterialTextbox18.Location = new System.Drawing.Point(113, 207);
-            this.bunifuMaterialTextbox18.Margin = new System.Windows.Forms.Padding(4);
-            this.bunifuMaterialTextbox18.Name = "bunifuMaterialTextbox18";
-            this.bunifuMaterialTextbox18.Size = new System.Drawing.Size(303, 28);
-            this.bunifuMaterialTextbox18.TabIndex = 29;
-            this.bunifuMaterialTextbox18.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtLocalidad.BackColor = System.Drawing.Color.LightGray;
+            this.txtLocalidad.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtLocalidad.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtLocalidad.Enabled = false;
+            this.txtLocalidad.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtLocalidad.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtLocalidad.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtLocalidad.HintText = "";
+            this.txtLocalidad.isPassword = false;
+            this.txtLocalidad.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtLocalidad.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtLocalidad.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtLocalidad.LineThickness = 2;
+            this.txtLocalidad.Location = new System.Drawing.Point(113, 207);
+            this.txtLocalidad.Margin = new System.Windows.Forms.Padding(4);
+            this.txtLocalidad.Name = "txtLocalidad";
+            this.txtLocalidad.Size = new System.Drawing.Size(303, 28);
+            this.txtLocalidad.TabIndex = 29;
+            this.txtLocalidad.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
-            // bunifuMaterialTextbox19
+            // txtCveLoc
             // 
-            this.bunifuMaterialTextbox19.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox19.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox19.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox19.Enabled = false;
-            this.bunifuMaterialTextbox19.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuMaterialTextbox19.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox19.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox19.HintText = "";
-            this.bunifuMaterialTextbox19.isPassword = false;
-            this.bunifuMaterialTextbox19.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox19.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox19.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox19.LineThickness = 2;
-            this.bunifuMaterialTextbox19.Location = new System.Drawing.Point(113, 170);
-            this.bunifuMaterialTextbox19.Margin = new System.Windows.Forms.Padding(4);
-            this.bunifuMaterialTextbox19.Name = "bunifuMaterialTextbox19";
-            this.bunifuMaterialTextbox19.Size = new System.Drawing.Size(303, 29);
-            this.bunifuMaterialTextbox19.TabIndex = 28;
-            this.bunifuMaterialTextbox19.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtCveLoc.BackColor = System.Drawing.Color.LightGray;
+            this.txtCveLoc.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtCveLoc.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtCveLoc.Enabled = false;
+            this.txtCveLoc.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtCveLoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCveLoc.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCveLoc.HintText = "";
+            this.txtCveLoc.isPassword = false;
+            this.txtCveLoc.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCveLoc.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtCveLoc.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCveLoc.LineThickness = 2;
+            this.txtCveLoc.Location = new System.Drawing.Point(113, 170);
+            this.txtCveLoc.Margin = new System.Windows.Forms.Padding(4);
+            this.txtCveLoc.Name = "txtCveLoc";
+            this.txtCveLoc.Size = new System.Drawing.Size(303, 29);
+            this.txtCveLoc.TabIndex = 28;
+            this.txtCveLoc.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
-            // bunifuMaterialTextbox20
+            // txtMunicipio
             // 
-            this.bunifuMaterialTextbox20.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox20.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox20.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox20.Enabled = false;
-            this.bunifuMaterialTextbox20.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuMaterialTextbox20.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox20.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox20.HintText = "";
-            this.bunifuMaterialTextbox20.isPassword = false;
-            this.bunifuMaterialTextbox20.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox20.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox20.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox20.LineThickness = 2;
-            this.bunifuMaterialTextbox20.Location = new System.Drawing.Point(113, 136);
-            this.bunifuMaterialTextbox20.Margin = new System.Windows.Forms.Padding(4);
-            this.bunifuMaterialTextbox20.Name = "bunifuMaterialTextbox20";
-            this.bunifuMaterialTextbox20.Size = new System.Drawing.Size(303, 26);
-            this.bunifuMaterialTextbox20.TabIndex = 27;
-            this.bunifuMaterialTextbox20.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtMunicipio.BackColor = System.Drawing.Color.LightGray;
+            this.txtMunicipio.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtMunicipio.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtMunicipio.Enabled = false;
+            this.txtMunicipio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtMunicipio.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtMunicipio.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtMunicipio.HintText = "";
+            this.txtMunicipio.isPassword = false;
+            this.txtMunicipio.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtMunicipio.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtMunicipio.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtMunicipio.LineThickness = 2;
+            this.txtMunicipio.Location = new System.Drawing.Point(113, 136);
+            this.txtMunicipio.Margin = new System.Windows.Forms.Padding(4);
+            this.txtMunicipio.Name = "txtMunicipio";
+            this.txtMunicipio.Size = new System.Drawing.Size(303, 26);
+            this.txtMunicipio.TabIndex = 27;
+            this.txtMunicipio.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
-            // bunifuMaterialTextbox21
+            // txtCveMun
             // 
-            this.bunifuMaterialTextbox21.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox21.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox21.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox21.Enabled = false;
-            this.bunifuMaterialTextbox21.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuMaterialTextbox21.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox21.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox21.HintText = "";
-            this.bunifuMaterialTextbox21.isPassword = false;
-            this.bunifuMaterialTextbox21.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox21.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox21.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox21.LineThickness = 2;
-            this.bunifuMaterialTextbox21.Location = new System.Drawing.Point(113, 104);
-            this.bunifuMaterialTextbox21.Margin = new System.Windows.Forms.Padding(4);
-            this.bunifuMaterialTextbox21.Name = "bunifuMaterialTextbox21";
-            this.bunifuMaterialTextbox21.Size = new System.Drawing.Size(303, 24);
-            this.bunifuMaterialTextbox21.TabIndex = 26;
-            this.bunifuMaterialTextbox21.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtCveMun.BackColor = System.Drawing.Color.LightGray;
+            this.txtCveMun.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtCveMun.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtCveMun.Enabled = false;
+            this.txtCveMun.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtCveMun.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCveMun.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCveMun.HintText = "";
+            this.txtCveMun.isPassword = false;
+            this.txtCveMun.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCveMun.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtCveMun.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtCveMun.LineThickness = 2;
+            this.txtCveMun.Location = new System.Drawing.Point(113, 104);
+            this.txtCveMun.Margin = new System.Windows.Forms.Padding(4);
+            this.txtCveMun.Name = "txtCveMun";
+            this.txtCveMun.Size = new System.Drawing.Size(303, 24);
+            this.txtCveMun.TabIndex = 26;
+            this.txtCveMun.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
-            // bunifuMaterialTextbox22
+            // txtInegi
             // 
-            this.bunifuMaterialTextbox22.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox22.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox22.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox22.Enabled = false;
-            this.bunifuMaterialTextbox22.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuMaterialTextbox22.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox22.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox22.HintText = "";
-            this.bunifuMaterialTextbox22.isPassword = false;
-            this.bunifuMaterialTextbox22.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox22.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox22.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox22.LineThickness = 2;
-            this.bunifuMaterialTextbox22.Location = new System.Drawing.Point(113, 74);
-            this.bunifuMaterialTextbox22.Margin = new System.Windows.Forms.Padding(4);
-            this.bunifuMaterialTextbox22.Name = "bunifuMaterialTextbox22";
-            this.bunifuMaterialTextbox22.Size = new System.Drawing.Size(303, 22);
-            this.bunifuMaterialTextbox22.TabIndex = 25;
-            this.bunifuMaterialTextbox22.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtInegi.BackColor = System.Drawing.Color.LightGray;
+            this.txtInegi.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtInegi.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtInegi.Enabled = false;
+            this.txtInegi.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtInegi.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtInegi.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtInegi.HintText = "";
+            this.txtInegi.isPassword = false;
+            this.txtInegi.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtInegi.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtInegi.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtInegi.LineThickness = 2;
+            this.txtInegi.Location = new System.Drawing.Point(113, 74);
+            this.txtInegi.Margin = new System.Windows.Forms.Padding(4);
+            this.txtInegi.Name = "txtInegi";
+            this.txtInegi.Size = new System.Drawing.Size(303, 22);
+            this.txtInegi.TabIndex = 25;
+            this.txtInegi.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
-            // bunifuMaterialTextbox23
+            // txtRegion
             // 
-            this.bunifuMaterialTextbox23.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox23.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox23.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox23.Enabled = false;
-            this.bunifuMaterialTextbox23.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuMaterialTextbox23.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox23.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox23.HintText = "";
-            this.bunifuMaterialTextbox23.isPassword = false;
-            this.bunifuMaterialTextbox23.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox23.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox23.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox23.LineThickness = 2;
-            this.bunifuMaterialTextbox23.Location = new System.Drawing.Point(113, 40);
-            this.bunifuMaterialTextbox23.Margin = new System.Windows.Forms.Padding(4);
-            this.bunifuMaterialTextbox23.Name = "bunifuMaterialTextbox23";
-            this.bunifuMaterialTextbox23.Size = new System.Drawing.Size(303, 26);
-            this.bunifuMaterialTextbox23.TabIndex = 24;
-            this.bunifuMaterialTextbox23.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtRegion.BackColor = System.Drawing.Color.LightGray;
+            this.txtRegion.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtRegion.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtRegion.Enabled = false;
+            this.txtRegion.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtRegion.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtRegion.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtRegion.HintText = "";
+            this.txtRegion.isPassword = false;
+            this.txtRegion.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtRegion.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtRegion.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtRegion.LineThickness = 2;
+            this.txtRegion.Location = new System.Drawing.Point(113, 40);
+            this.txtRegion.Margin = new System.Windows.Forms.Padding(4);
+            this.txtRegion.Name = "txtRegion";
+            this.txtRegion.Size = new System.Drawing.Size(303, 26);
+            this.txtRegion.TabIndex = 24;
+            this.txtRegion.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
             // label65
             // 
@@ -2410,27 +2410,27 @@
             this.label66.Text = "Id Region:";
             this.label66.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // bunifuMaterialTextbox24
+            // txtIdRegion
             // 
-            this.bunifuMaterialTextbox24.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox24.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox24.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox24.Enabled = false;
-            this.bunifuMaterialTextbox24.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuMaterialTextbox24.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox24.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox24.HintText = "";
-            this.bunifuMaterialTextbox24.isPassword = false;
-            this.bunifuMaterialTextbox24.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox24.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox24.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox24.LineThickness = 2;
-            this.bunifuMaterialTextbox24.Location = new System.Drawing.Point(113, 4);
-            this.bunifuMaterialTextbox24.Margin = new System.Windows.Forms.Padding(4);
-            this.bunifuMaterialTextbox24.Name = "bunifuMaterialTextbox24";
-            this.bunifuMaterialTextbox24.Size = new System.Drawing.Size(303, 28);
-            this.bunifuMaterialTextbox24.TabIndex = 18;
-            this.bunifuMaterialTextbox24.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtIdRegion.BackColor = System.Drawing.Color.LightGray;
+            this.txtIdRegion.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtIdRegion.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtIdRegion.Enabled = false;
+            this.txtIdRegion.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtIdRegion.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIdRegion.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIdRegion.HintText = "";
+            this.txtIdRegion.isPassword = false;
+            this.txtIdRegion.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIdRegion.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtIdRegion.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIdRegion.LineThickness = 2;
+            this.txtIdRegion.Location = new System.Drawing.Point(113, 4);
+            this.txtIdRegion.Margin = new System.Windows.Forms.Padding(4);
+            this.txtIdRegion.Name = "txtIdRegion";
+            this.txtIdRegion.Size = new System.Drawing.Size(303, 28);
+            this.txtIdRegion.TabIndex = 18;
+            this.txtIdRegion.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
             // label67
             // 
@@ -2499,9 +2499,9 @@
             this.tblPnlTutora.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 64.89104F));
             this.tblPnlTutora.Controls.Add(this.label50, 0, 2);
             this.tblPnlTutora.Controls.Add(this.label48, 0, 0);
-            this.tblPnlTutora.Controls.Add(this.bunifuMaterialTextbox7, 1, 0);
-            this.tblPnlTutora.Controls.Add(this.bunifuMaterialTextbox8, 1, 1);
-            this.tblPnlTutora.Controls.Add(this.bunifuMaterialTextbox9, 1, 2);
+            this.tblPnlTutora.Controls.Add(this.txtIdTutora, 1, 0);
+            this.tblPnlTutora.Controls.Add(this.txtNombreCompleto, 1, 1);
+            this.tblPnlTutora.Controls.Add(this.txtEstatus, 1, 2);
             this.tblPnlTutora.Controls.Add(this.label49, 0, 1);
             this.tblPnlTutora.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tblPnlTutora.Location = new System.Drawing.Point(0, 0);
@@ -2538,71 +2538,71 @@
             this.label48.Text = "Id Tutora:";
             this.label48.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // bunifuMaterialTextbox7
+            // txtIdTutora
             // 
-            this.bunifuMaterialTextbox7.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox7.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox7.Enabled = false;
-            this.bunifuMaterialTextbox7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuMaterialTextbox7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox7.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox7.HintText = "";
-            this.bunifuMaterialTextbox7.isPassword = false;
-            this.bunifuMaterialTextbox7.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox7.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox7.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox7.LineThickness = 2;
-            this.bunifuMaterialTextbox7.Location = new System.Drawing.Point(151, 4);
-            this.bunifuMaterialTextbox7.Margin = new System.Windows.Forms.Padding(4);
-            this.bunifuMaterialTextbox7.Name = "bunifuMaterialTextbox7";
-            this.bunifuMaterialTextbox7.Size = new System.Drawing.Size(265, 36);
-            this.bunifuMaterialTextbox7.TabIndex = 21;
-            this.bunifuMaterialTextbox7.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtIdTutora.BackColor = System.Drawing.Color.LightGray;
+            this.txtIdTutora.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtIdTutora.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtIdTutora.Enabled = false;
+            this.txtIdTutora.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtIdTutora.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIdTutora.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIdTutora.HintText = "";
+            this.txtIdTutora.isPassword = false;
+            this.txtIdTutora.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIdTutora.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtIdTutora.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtIdTutora.LineThickness = 2;
+            this.txtIdTutora.Location = new System.Drawing.Point(151, 4);
+            this.txtIdTutora.Margin = new System.Windows.Forms.Padding(4);
+            this.txtIdTutora.Name = "txtIdTutora";
+            this.txtIdTutora.Size = new System.Drawing.Size(265, 36);
+            this.txtIdTutora.TabIndex = 21;
+            this.txtIdTutora.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
-            // bunifuMaterialTextbox8
+            // txtNombreCompleto
             // 
-            this.bunifuMaterialTextbox8.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox8.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox8.Enabled = false;
-            this.bunifuMaterialTextbox8.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuMaterialTextbox8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox8.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox8.HintText = "";
-            this.bunifuMaterialTextbox8.isPassword = false;
-            this.bunifuMaterialTextbox8.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox8.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox8.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox8.LineThickness = 2;
-            this.bunifuMaterialTextbox8.Location = new System.Drawing.Point(151, 48);
-            this.bunifuMaterialTextbox8.Margin = new System.Windows.Forms.Padding(4);
-            this.bunifuMaterialTextbox8.Name = "bunifuMaterialTextbox8";
-            this.bunifuMaterialTextbox8.Size = new System.Drawing.Size(265, 38);
-            this.bunifuMaterialTextbox8.TabIndex = 22;
-            this.bunifuMaterialTextbox8.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtNombreCompleto.BackColor = System.Drawing.Color.LightGray;
+            this.txtNombreCompleto.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtNombreCompleto.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtNombreCompleto.Enabled = false;
+            this.txtNombreCompleto.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNombreCompleto.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtNombreCompleto.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtNombreCompleto.HintText = "";
+            this.txtNombreCompleto.isPassword = false;
+            this.txtNombreCompleto.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtNombreCompleto.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtNombreCompleto.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtNombreCompleto.LineThickness = 2;
+            this.txtNombreCompleto.Location = new System.Drawing.Point(151, 48);
+            this.txtNombreCompleto.Margin = new System.Windows.Forms.Padding(4);
+            this.txtNombreCompleto.Name = "txtNombreCompleto";
+            this.txtNombreCompleto.Size = new System.Drawing.Size(265, 38);
+            this.txtNombreCompleto.TabIndex = 22;
+            this.txtNombreCompleto.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
-            // bunifuMaterialTextbox9
+            // txtEstatus
             // 
-            this.bunifuMaterialTextbox9.BackColor = System.Drawing.Color.LightGray;
-            this.bunifuMaterialTextbox9.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.bunifuMaterialTextbox9.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bunifuMaterialTextbox9.Enabled = false;
-            this.bunifuMaterialTextbox9.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuMaterialTextbox9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox9.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox9.HintText = "";
-            this.bunifuMaterialTextbox9.isPassword = false;
-            this.bunifuMaterialTextbox9.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox9.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
-            this.bunifuMaterialTextbox9.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.bunifuMaterialTextbox9.LineThickness = 2;
-            this.bunifuMaterialTextbox9.Location = new System.Drawing.Point(151, 94);
-            this.bunifuMaterialTextbox9.Margin = new System.Windows.Forms.Padding(4);
-            this.bunifuMaterialTextbox9.Name = "bunifuMaterialTextbox9";
-            this.bunifuMaterialTextbox9.Size = new System.Drawing.Size(265, 31);
-            this.bunifuMaterialTextbox9.TabIndex = 23;
-            this.bunifuMaterialTextbox9.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.txtEstatus.BackColor = System.Drawing.Color.LightGray;
+            this.txtEstatus.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtEstatus.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtEstatus.Enabled = false;
+            this.txtEstatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtEstatus.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtEstatus.HintForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtEstatus.HintText = "";
+            this.txtEstatus.isPassword = false;
+            this.txtEstatus.LineFocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtEstatus.LineIdleColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
+            this.txtEstatus.LineMouseHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.txtEstatus.LineThickness = 2;
+            this.txtEstatus.Location = new System.Drawing.Point(151, 94);
+            this.txtEstatus.Margin = new System.Windows.Forms.Padding(4);
+            this.txtEstatus.Name = "txtEstatus";
+            this.txtEstatus.Size = new System.Drawing.Size(265, 31);
+            this.txtEstatus.TabIndex = 23;
+            this.txtEstatus.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             // 
             // label49
             // 
@@ -2775,11 +2775,11 @@
         private System.Windows.Forms.Label label52;
         private System.Windows.Forms.Label label55;
         private System.Windows.Forms.Label label57;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox11;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox10;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox12;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtCrisCodRes201;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtIncCodRes2021;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtIncFecha2021;
         private System.Windows.Forms.Label label54;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox13;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtCrisFecha2021;
         private System.Windows.Forms.Panel panel13;
         private System.Windows.Forms.Label label51;
         private System.Windows.Forms.Panel panel15;
@@ -2789,32 +2789,32 @@
         private System.Windows.Forms.Label label61;
         private System.Windows.Forms.Label label62;
         private System.Windows.Forms.Label label63;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox14;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox15;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox16;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtCrisCodRes2020;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtIncCodRes2020;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtIncFecha2020;
         private System.Windows.Forms.Label label64;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox17;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtCrisFecha2020;
         private System.Windows.Forms.Panel panel16;
         private System.Windows.Forms.Label label58;
         private System.Windows.Forms.TableLayoutPanel tblPnlTutora;
         private System.Windows.Forms.Label label50;
         private System.Windows.Forms.Label label48;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox7;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox8;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox9;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtIdTutora;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtNombreCompleto;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtEstatus;
         private System.Windows.Forms.Label label49;
         private System.Windows.Forms.Panel panel6;
         private System.Windows.Forms.Label label47;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel3;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox18;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox19;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox20;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox21;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox22;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox23;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtLocalidad;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtCveLoc;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtMunicipio;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtCveMun;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtInegi;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtRegion;
         private System.Windows.Forms.Label label65;
         private System.Windows.Forms.Label label66;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox24;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtIdRegion;
         private System.Windows.Forms.Label label67;
         private System.Windows.Forms.Label label68;
         private System.Windows.Forms.Label label69;
