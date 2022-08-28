@@ -7,3 +7,12 @@ D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bi
 D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
 D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\obj\Debug\capaNegocio.dll
 D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\obj\Debug\capaNegocio.pdb
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaNegocio\bin\Debug\capaData.dll
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaNegocio\bin\Debug\capaEntidad.dll
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaNegocio\bin\Debug\capaData.pdb
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaNegocio\bin\Debug\capaEntidad.pdb
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaNegocio\obj\Debug\capaNegocio.pdb

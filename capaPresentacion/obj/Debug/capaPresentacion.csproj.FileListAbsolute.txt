@@ -13,3 +13,17 @@ D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentaci
 D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\Bunifu_UI_v1.5.3.dll
 D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.frmFicha.resources
 D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.frmPrincipal.resources
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaPresentacion\bin\Debug\capaEntidad.dll
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaPresentacion\bin\Debug\capaNegocio.dll
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaPresentacion\bin\Debug\capaEntidad.pdb
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaPresentacion\bin\Debug\capaNegocio.pdb
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.frmFicha.resources
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.frmPrincipal.resources
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.Cache

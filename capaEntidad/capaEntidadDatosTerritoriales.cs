@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace capaEntidad
 {
-    class capaEntidadDatosTerritoriales
+    public class capaEntidadDatosTerritoriales
     {
         public int idEstructuraTerritorial { get; set; }
         public int idRegion { get; set; }
