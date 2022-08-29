@@ -40,7 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="capaEntidadComportamiento.cs" />
     <Compile Include="capaEntidadDatosTerritoriales.cs" />
+    <Compile Include="capaEntidadDispersion.cs" />
     <Compile Include="capaEntidadTutora.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
