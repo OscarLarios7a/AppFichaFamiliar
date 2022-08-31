@@ -7,3 +7,7 @@ C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capa
 C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaEntidad\obj\Debug\capaEntidad.csprojResolveAssemblyReference.cache
 C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaEntidad\obj\Debug\capaEntidad.dll
 C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaEntidad\obj\Debug\capaEntidad.pdb
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\AppFichaFamiliar\capaEntidad\bin\Debug\capaEntidad.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\AppFichaFamiliar\capaEntidad\bin\Debug\capaEntidad.pdb
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\AppFichaFamiliar\capaEntidad\obj\Debug\capaEntidad.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\AppFichaFamiliar\capaEntidad\obj\Debug\capaEntidad.pdb

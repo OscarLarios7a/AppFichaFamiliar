@@ -54,7 +54,7 @@
             this.pnlTitleBar.Dock = System.Windows.Forms.DockStyle.Top;
             this.pnlTitleBar.Location = new System.Drawing.Point(0, 0);
             this.pnlTitleBar.Name = "pnlTitleBar";
-            this.pnlTitleBar.Size = new System.Drawing.Size(1540, 52);
+            this.pnlTitleBar.Size = new System.Drawing.Size(1566, 52);
             this.pnlTitleBar.TabIndex = 1;
             // 
             // bnfFBntMin
@@ -79,7 +79,7 @@
             this.bnfFBntMin.IconVisible = true;
             this.bnfFBntMin.IconZoom = 90D;
             this.bnfFBntMin.IsTab = false;
-            this.bnfFBntMin.Location = new System.Drawing.Point(1384, 0);
+            this.bnfFBntMin.Location = new System.Drawing.Point(1410, 0);
             this.bnfFBntMin.Name = "bnfFBntMin";
             this.bnfFBntMin.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(232)))), ((int)(((byte)(220)))));
             this.bnfFBntMin.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(232)))), ((int)(((byte)(220)))));
@@ -114,7 +114,7 @@
             this.bnfFBntMax.IconVisible = true;
             this.bnfFBntMax.IconZoom = 90D;
             this.bnfFBntMax.IsTab = false;
-            this.bnfFBntMax.Location = new System.Drawing.Point(1436, 0);
+            this.bnfFBntMax.Location = new System.Drawing.Point(1462, 0);
             this.bnfFBntMax.Name = "bnfFBntMax";
             this.bnfFBntMax.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(217)))), ((int)(((byte)(188)))), ((int)(((byte)(154)))));
             this.bnfFBntMax.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(217)))), ((int)(((byte)(188)))), ((int)(((byte)(154)))));
@@ -149,7 +149,7 @@
             this.bnfFBntClose.IconVisible = true;
             this.bnfFBntClose.IconZoom = 90D;
             this.bnfFBntClose.IsTab = false;
-            this.bnfFBntClose.Location = new System.Drawing.Point(1488, 0);
+            this.bnfFBntClose.Location = new System.Drawing.Point(1514, 0);
             this.bnfFBntClose.Name = "bnfFBntClose";
             this.bnfFBntClose.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
             this.bnfFBntClose.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(143)))), ((int)(((byte)(84)))));
@@ -172,7 +172,7 @@
             this.pnlLeftBar.ForeColor = System.Drawing.Color.DarkBlue;
             this.pnlLeftBar.Location = new System.Drawing.Point(0, 52);
             this.pnlLeftBar.Name = "pnlLeftBar";
-            this.pnlLeftBar.Size = new System.Drawing.Size(194, 823);
+            this.pnlLeftBar.Size = new System.Drawing.Size(194, 805);
             this.pnlLeftBar.TabIndex = 2;
             // 
             // pnlSubmenuFichaFamilia
@@ -262,7 +262,7 @@
             this.pnlMenu.Location = new System.Drawing.Point(194, 52);
             this.pnlMenu.Name = "pnlMenu";
             this.pnlMenu.Quality = 10;
-            this.pnlMenu.Size = new System.Drawing.Size(1346, 823);
+            this.pnlMenu.Size = new System.Drawing.Size(1372, 805);
             this.pnlMenu.TabIndex = 3;
             // 
             // frmPrincipal
@@ -270,7 +270,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(232)))), ((int)(((byte)(220)))));
-            this.ClientSize = new System.Drawing.Size(1540, 875);
+            this.ClientSize = new System.Drawing.Size(1566, 857);
             this.Controls.Add(this.pnlMenu);
             this.Controls.Add(this.pnlLeftBar);
             this.Controls.Add(this.pnlTitleBar);

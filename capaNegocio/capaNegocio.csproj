@@ -50,13 +50,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\capaData\capaData.csproj">
+    <ProjectReference Include="..\capaData\CapaDatos.csproj">
       <Project>{70b559e2-4c6e-4d49-be53-b94b13a393c4}</Project>
-      <Name>capaData</Name>
+      <Name>CapaDatos</Name>
     </ProjectReference>
-    <ProjectReference Include="..\capaEntidad\capaEntidad.csproj">
+    <ProjectReference Include="..\capaEntidad\CapaEntidad.csproj">
       <Project>{a7f89653-ea5f-48d9-9291-f05f51ac6b2a}</Project>
-      <Name>capaEntidad</Name>
+      <Name>CapaEntidad</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

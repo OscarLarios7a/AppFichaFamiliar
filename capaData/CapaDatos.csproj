@@ -104,9 +104,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\capaEntidad\capaEntidad.csproj">
+    <ProjectReference Include="..\capaEntidad\CapaEntidad.csproj">
       <Project>{a7f89653-ea5f-48d9-9291-f05f51ac6b2a}</Project>
-      <Name>capaEntidad</Name>
+      <Name>CapaEntidad</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

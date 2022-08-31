@@ -95,13 +95,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\capaEntidad\capaEntidad.csproj">
+    <ProjectReference Include="..\capaEntidad\CapaEntidad.csproj">
       <Project>{a7f89653-ea5f-48d9-9291-f05f51ac6b2a}</Project>
-      <Name>capaEntidad</Name>
+      <Name>CapaEntidad</Name>
     </ProjectReference>
-    <ProjectReference Include="..\capaNegocio\capaNegocio.csproj">
+    <ProjectReference Include="..\capaNegocio\CapaNegocio.csproj">
       <Project>{63b965b8-d97d-43f3-9dc6-ff3d15640a41}</Project>
-      <Name>capaNegocio</Name>
+      <Name>CapaNegocio</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

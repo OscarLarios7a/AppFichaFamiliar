@@ -42,6 +42,7 @@ namespace capaPresentacion
 
         private void frmFicha_Load(object sender, EventArgs e)
         {
+            diseñoPersonalizado();
             //cNDatosTerritoriales.CargarGrid(dtgvDatosTerritoriales);
             //cNTutora.CargarGrid(dtgvTutora);
             //cNCrisInco.CargarGrid(dtgvCrisInco);
@@ -223,6 +224,42 @@ namespace capaPresentacion
             txtLiqSem1_2021.Text = "";
             txtLiqSem2_2021.Text = "";
 
+        }
+
+        #region PersonalizarMenu
+        //Metodo para Personalizar Diseño
+        private void diseñoPersonalizado()
+        {
+            /*pnlSubMenuAdmin.Visible = false;
+            pnlSubMenuMetas.Visible = false;*/
+            pnlBuscarAvanzada.Visible = false;
+        }
+
+        //metodo para Ocultar el Submenu
+        private void ocultarSubMenu()
+        {
+            /*if (pnlSubMenuAdmin.Visible == true)
+                pnlSubMenuAdmin.Visible = false;
+            if (pnlSubMenuMetas.Visible == true)
+                pnlSubMenuMetas.Visible = false;*/
+            if (pnlBuscarAvanzada.Visible == true)
+                pnlBuscarAvanzada.Visible = false;
+        }
+        private void mostrarSubMenu(Panel subMenu)
+        {
+            if (subMenu.Visible == false)
+            {
+                ocultarSubMenu();
+                subMenu.Visible = true;
+            }
+            else
+                subMenu.Visible = false;
+        }
+        #endregion
+
+        private void bunifuFlatButton1_Click(object sender, EventArgs e)
+        {
+            mostrarSubMenu(pnlBuscarAvanzada);
         }
     }
 }

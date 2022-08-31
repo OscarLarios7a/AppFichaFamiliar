@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capaData", "capaData\capaData.csproj", "{70B559E2-4C6E-4D49-BE53-B94B13A393C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "capaData\CapaDatos.csproj", "{70B559E2-4C6E-4D49-BE53-B94B13A393C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capaEntidad", "capaEntidad\capaEntidad.csproj", "{A7F89653-EA5F-48D9-9291-F05F51AC6B2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaEntidad", "capaEntidad\CapaEntidad.csproj", "{A7F89653-EA5F-48D9-9291-F05F51AC6B2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capaNegocio", "capaNegocio\capaNegocio.csproj", "{63B965B8-D97D-43F3-9DC6-FF3D15640A41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocio", "capaNegocio\CapaNegocio.csproj", "{63B965B8-D97D-43F3-9DC6-FF3D15640A41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capaPresentacion", "capaPresentacion\capaPresentacion.csproj", "{5C839AEA-9835-40C3-B674-CA1CA2E15085}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaPresentacion", "capaPresentacion\CapaPresentacion.csproj", "{5C839AEA-9835-40C3-B674-CA1CA2E15085}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
