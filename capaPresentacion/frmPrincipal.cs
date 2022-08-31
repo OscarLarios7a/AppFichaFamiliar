@@ -8,18 +8,21 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using capaEntidad;
-
+using capaNegocio;
 namespace capaPresentacion
 {
     public partial class frmPrincipal : Form
     {
         int m, mx, my; //Variables Globales para la manipulacion de las ventana
         private Form activoFormulario = null; // para activacion de los formularios
-
+        //capaNegocioDatosTerritoriales cNDatosTerritoriales;
+       
         public frmPrincipal()
         {
             InitializeComponent();
             diseñoPersonalizado();
+            //cNDatosTerritoriales = new capaNegocioDatosTerritoriales();
+            //cNDatosTerritoriales.CargarGrid(dtgvDatosTerritoriales);
         }
         #region Seccion de Botones de la Barra de Titulo del Formulario (Close,Max,Min)
         private void bnfFBntClose_Click(object sender, EventArgs e)

@@ -27,3 +27,16 @@ C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capa
 C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.frmPrincipal.resources
 C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
 C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.Cache
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\capaData.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\MySql.Data.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\Google.Protobuf.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\ZstdNet.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\Ubiety.Dns.Core.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\System.Buffers.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\K4os.Compression.LZ4.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\K4os.Hash.xxHash.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\capaData.pdb
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaPresentacion\bin\Debug\MySql.Data.xml

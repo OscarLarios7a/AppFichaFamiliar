@@ -16,3 +16,14 @@ C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capa
 C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
 C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaNegocio\obj\Debug\capaNegocio.dll
 C:\Users\CNBBBJ_5398\Documents\Visual Studio 2015\Projects\AppFichaFamiliar\capaNegocio\obj\Debug\capaNegocio.pdb
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bin\Debug\capaNegocio.dll.config
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bin\Debug\MySql.Data.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bin\Debug\Google.Protobuf.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bin\Debug\ZstdNet.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bin\Debug\BouncyCastle.Crypto.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bin\Debug\Ubiety.Dns.Core.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bin\Debug\System.Buffers.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bin\Debug\K4os.Compression.LZ4.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bin\Debug\K4os.Hash.xxHash.dll
+D:\AT_OAXACA\Documentos\Visual Studio 2015\Projects\FichaFamiliar\capaNegocio\bin\Debug\MySql.Data.xml
