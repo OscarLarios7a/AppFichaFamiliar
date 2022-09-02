@@ -18,7 +18,7 @@ namespace capaData
 
         public capaDataConexionBD()
         {
-            cad_cnx = "Server=localhost;User=root;Password=oportunidades;Port=3306;database=educacionbasica";
+            cad_cnx = "SERVER=localhost;UID=root;Password=oportunidades;PORT=3306;DATABASE=educacionbasica";
         }
         //Metodo para la conexion a la BD
         public MySqlConnection GetConnection()
